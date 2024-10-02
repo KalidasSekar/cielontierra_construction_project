@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cielontierra_construction_project/static/css/main.e17ae71e.css",
+    "main.js": "/cielontierra_construction_project/static/js/main.41c51610.js",
+    "static/media/first_banner.jpg": "/cielontierra_construction_project/static/media/first_banner.f1b103a7351456d8539b.jpg",
+    "static/media/banner2.jpeg": "/cielontierra_construction_project/static/media/banner2.2c83572eb1e9d3cc4eea.jpeg",
+    "static/media/footer_background.png": "/cielontierra_construction_project/static/media/footer_background.2b69c0d59789675e9b2a.png",
+    "static/media/top-view-chat-bubbles-with-telephone-receiver-copy-space.jpg": "/cielontierra_construction_project/static/media/top-view-chat-bubbles-with-telephone-receiver-copy-space.f861fd91d49257edfc0b.jpg",
+    "static/media/grey-geometrical-shapes-background.jpg": "/cielontierra_construction_project/static/media/grey-geometrical-shapes-background.43ea28935c2b9ed567cb.jpg",
+    "static/media/contactus_banner1.jpg": "/cielontierra_construction_project/static/media/contactus_banner1.b176939104c55e82b284.jpg",
+    "static/media/logo.png": "/cielontierra_construction_project/static/media/logo.087227ea717b9e4329cf.png",
+    "index.html": "/cielontierra_construction_project/index.html",
+    "main.e17ae71e.css.map": "/cielontierra_construction_project/static/css/main.e17ae71e.css.map",
+    "main.41c51610.js.map": "/cielontierra_construction_project/static/js/main.41c51610.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e17ae71e.css",
+    "static/js/main.41c51610.js"
+  ]
+}
