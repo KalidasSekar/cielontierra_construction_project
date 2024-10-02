@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@700&display=swap');
+
+.carousel_container {
+    top: 0;
+}
+
+.d-block {
+    height: 30rem;
+}
+
+.banner_video_container {
+    height: 35rem;
+    display: block;
+    position: relative;
+}
+
+
+.first_banner_content {
+    display: block;
+    position: absolute;
+    top: 2rem;
+    /* border: 1px solid; */
+    width: 100%;
+    font-family: 'Jost', sans-serif;
+}
+
+li {
+    list-style-type: none;
+    /* border: 2px solid; */
+    text-align: left;
+}
+
+.first_banner_header1 {
+    font-style: normal;
+    letter-spacing: 5px;
+    font-weight: 700;
+    font-size: 54px;
+    color: white;
+    text-shadow: -2px 3px 10px #1A1A1A;
+}
+
+.first_banner_header2 {
+    font-style: normal;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-size: 15vmin;
+    color: #ffbc13;
+    text-shadow: -2px 3px 10px #1A1A1A;
+}
+
+.first_banner_sub_header {
+    font-size: 25px;
+    color: white;
+    text-shadow: -2px 3px 10px #1A1A1A;
+
+}
+
+
+.first_banner_content {
+    animation: myAnim 1s ease-out 0s 1 normal forwards;
+}
+
+@keyframes myAnim {
+    0% {
+        opacity: 0;
+        transform: translateX(-250px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@media screen and (max-width:530px) {
+
+    .carousel-inner {
+        height: 25rem;
+    }
+
+    .first_banner_content {
+        height: 100%;
+    }
+
+}
